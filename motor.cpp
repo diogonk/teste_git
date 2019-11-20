@@ -4,4 +4,5 @@ class motor
     int potencia;
     bool ligar(void);
     int temperatura(void);
+    bool desligar(void);
 };
