@@ -7,4 +7,5 @@ class porta
     bool fechar(void);
     bool travar(void);
     bool verificar_trava(void);
+    bool destravar(void);
 };
