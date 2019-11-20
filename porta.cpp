@@ -5,4 +5,5 @@ class porta
     bool travada;
     bool abrir(void);
     bool fechar(void);
+    bool travar(void);
 };
